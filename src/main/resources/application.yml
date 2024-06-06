@@ -1,0 +1,9 @@
+service:
+  port: 8080
+
+---
+environment: integration
+CustomVarTree:
+  devName: Gabriel
+server:
+  port: 7070
